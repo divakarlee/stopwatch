@@ -1,0 +1,28 @@
+.Start{
+  background-color: green;
+  border-radius: 6px;
+  width: 100px;
+  height: 23px;
+  margin: 20px;
+}
+
+.Stop{
+  background-color: red;
+  border-radius: 6px;
+  width: 100px;
+  height: 23px;
+  margin: 20px;
+}
+
+.watch{
+    font-size: 30px;
+    font-style: italic;
+
+}
+
+.card{
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  height: 100vh;
+}
